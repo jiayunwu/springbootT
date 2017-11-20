@@ -1,4 +1,4 @@
-package com.zf.springbootT;
+package com.zf;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
